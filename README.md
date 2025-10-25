@@ -209,5 +209,3 @@ end
 end)
 end
 
-Vc consegue obfuscar em lua
-
